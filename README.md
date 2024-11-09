@@ -34,8 +34,6 @@ I’m currently expanding my skills in the following languages and technologies:
 
 	•	JavaScript (For web development and front-end programming)
 
-	•	Swift (Exploring mobile development for iOS)
-
 	•	Raspberry Pi (Building cool hardware/software projects)
 
 
