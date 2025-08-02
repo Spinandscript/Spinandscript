@@ -10,13 +10,14 @@
 
 
 
-🚀 Aspiring Projects
+🔨 What I'm Building
 
 
 
 Here are some of the projects I’m looking to develop:
 
-	•	Boombox Raspberry Pi Project: Taking an old-school boombox and giving it modern capabilities like NFC using a Raspberry Pi.
+	• Strength & Mood Tracker App**: Built on the concept of a physical + digital stack (data structure meets healing)
+       
 
 
 
