@@ -16,7 +16,7 @@
 
 Here are some of the projects I’m looking to develop:
 
-	• Strength & Mood Tracker App**: Built on the concept of a physical + digital stack (data structure meets healing)
+	• Strength & Mood Tracker App
        
 
 
